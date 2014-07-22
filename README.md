@@ -20,5 +20,5 @@ Modify `FOLDER` in `replace.sh`, add(or modify) the replace pattern in `search_a
 
 ## Ref
 
-[https://stackoverflow.com/questions/15012631/rename-files-and-directories-recursively-under-ubuntu-bash]  
-[https://stackoverflow.com/questions/9058757/search-and-replace-string-in-folder-shell-script]  
+https://stackoverflow.com/questions/15012631/rename-files-and-directories-recursively-under-ubuntu-bash  
+https://stackoverflow.com/questions/9058757/search-and-replace-string-in-folder-shell-script  
